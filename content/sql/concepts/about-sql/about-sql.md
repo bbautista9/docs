@@ -17,7 +17,7 @@ CatalogContent:
 
 SQL stands for **S**tructured **Q**uery **L**anguage, and is the programming language implemented by a database management system (DBMS) used for managing and querying data held in a relational database.
 
-SQL has been an ANSI standard since 1986 and each different DBMS has its own implementation of this standard. These different implementations have varying adherence to the standard, so in practice SQL code of any complexity is not typically transferrable between different DBMS systems without some modification. However, because of the standard, skills learned in one DBMS system are largely applicable to another.
+SQL has been an ANSI standard since 1986 and each different DBMS has its own implementation of this standard. These different implementations have varying adherence to the standard, so in practice SQL code of any complexity is not typically transferrable between different DBMSs without some modification. However, because of the standard, skills learned in one DBMS are largely applicable to another.
 
 ## Types of Statements
 
